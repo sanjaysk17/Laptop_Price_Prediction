@@ -46,10 +46,10 @@ Example rows:
 ## 📈 Visualizations
 
 ### 🔹 Scatter Plot: RAM vs Price with Regression Line
-![Regression Line](output1.png.png)
+![Regression Line](output1.png)
 
 ### 🔹 Predicted vs Actual Prices
-![Scatter Plot](output.png.png)
+![Scatter Plot](output.png)
 
 ---
 
